@@ -1,7 +1,8 @@
 # **Operasi String**
 
-## Delfian Ruly Havatilla
-## TI.21.A1
+### Delfian Ruly Havatilla
+### TI.21.A1
+### 312110161
 
 **Apa itu Python String ?**
 
